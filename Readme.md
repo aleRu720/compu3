@@ -1,1 +1,1 @@
-## Prueba Computacion 3
+## Ejemplo de comunicación y uso del protocolo desde Mbed
